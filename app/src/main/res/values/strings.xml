@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">Ariza Talep Takip Sistemi </string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="activity_main_name">Talep Sistemi</string>
+
+    <string name="yetkili_giris">Yetkili Giriş</string>
+
+    <string name="personel_giris">Personel Giriş</string>
+
+    <string name="talep_olustur">Talep Oluştur</string>
+
+    <string name="giris">Giriş</string>
+
+    <string name="email">E-mail</string>
+
+    <string name="sifre">Şifre</string>
+
+    <string name="satir_cinsiyet_resmi">Cinsiyet</string>
+
+    <string name="kullanici_ekle">Kullanıcı Ekle</string>
+
+    <string name="adiniz">Ad</string>
+
+    <string name="soyadiniz">Soyad</string>
+
+    <string name="name">Ad</string>
+
+    <string name="surname">Soyad</string>
+
+    <string name="unvan">Unvan</string>
+
+    <string name="aciklama">Açıklama giriniz</string>
+
+    <string name="gonder">Gönder</string>
+
+    <string name="eposta">E-mail</string>
+
+    <string name="passwd">Şifre</string>
+
+    <string name="katnumarasi">Kat Numarası</string>
+
+    <string name="btnekle">Ekle</string>
+
+    <string name="odanumarasi">Oda Numarası</string>
+
+    <string name="birim">Birim</string>
+
+    <string name="user_ekle">KULLANICI EKLE</string>
+    <string name="talep_listesi">Talep listesi</string>
+    <string name="textview">TextView</string>
+    <string name="kayit_ol">Kayıt Ol!</string>
+
+
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF8DC"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/adR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/name"
+        android:autofillHints="" tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/soyadR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/surname"
+        android:importantForAutofill="no" tools:targetApi="o" />
+    <EditText
+        android:id="@+id/epostaR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="@string/eposta"
+        android:autofillHints=""
+        android:importantForAutofill="no" tools:targetApi="o" />
+    <EditText
+        android:id="@+id/sifreR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="@string/sifre"
+        android:autofillHints=""
+        android:importantForAutofill="no" tools:targetApi="o" />
+    <EditText
+        android:id="@+id/unvanR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/unvan"
+        android:importantForAutofill="no"
+        android:autofillHints="" tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/birimR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/birim"
+        android:importantForAutofill="no"
+        android:autofillHints="" tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/odanumarasiR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="@string/odanumarasi"
+        android:importantForAutofill="no" tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/katnumarasiR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/katnumarasi"
+        android:importantForAutofill="no" tools:targetApi="o" />
+
+    <Button
+        android:id="@+id/btnekleR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/btnekle" />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376255014873",
+    "firebase_url": "https://arizataleptakipsistemi.firebaseio.com",
+    "project_id": "arizataleptakipsistemi",
+    "storage_bucket": "arizataleptakipsistemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376255014873:android:45a72274145ce2b9",
+        "android_client_info": {
+          "package_name": "com.arizataleptakipsistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376255014873-71bfq0ij0scb1mpi6l0an8h3jm5q2eda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arizataleptakipsistemi",
+            "certificate_hash": "f9b7f07005fe718ee94ae4cee4c126bca5c00479"
+          }
+        },
+        {
+          "client_id": "376255014873-p7jp5svabo8fperakpvvm46c7ui87jir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuP6s0tjvE-dDQG37aYee_8XRJ_j70mOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376255014873-p7jp5svabo8fperakpvvm46c7ui87jir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
